@@ -32,7 +32,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="start">
 <a href="https://www.linkedin.com/in/triswanto-triswanto-97a934136/"><img src="https://img.shields.io/badge/Triswanto-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
