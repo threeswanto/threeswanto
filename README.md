@@ -6,17 +6,20 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm interesting on mobile development.\
-✍️ &nbsp;I'm also interesting on UI/UX Design.\
+✍️ &nbsp;I'm also interesting on UI/UX Design.
 
 ### 🛠 &nbsp;Tech Stack
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=ff6f00)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=dd2c00)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=64dd17)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=03a9f4)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=00e5ff)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Corel Draw](https://img.shields.io/badge/-Corel%20Draw-05122A?style=flat&logo=coreldraw)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
